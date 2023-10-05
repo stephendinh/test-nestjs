@@ -22,8 +22,13 @@
   "dependencies": {
     "@nestjs/axios": "^3.0.0",
     "@nestjs/common": "^9.0.0",
+    "@nestjs/config": "^3.1.1",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@nestjs/swagger": "^7.1.13",
+    "nestjs-pino": "^3.5.0",
+    "pino-http": "^8.5.0",
+    "pino-pretty": "^10.2.3",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
